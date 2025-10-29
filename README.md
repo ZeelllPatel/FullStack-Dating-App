@@ -1,12 +1,12 @@
-FullStack Dating App
+## FullStack Dating App
 
-## 🚀 Introduction
+##  Introduction
 
 In this in-depth tutorial you'll build a production-ready **FullStack Dating Website** using **Next.js**, **Supabase** (Postgres + Realtime), and **Stream** for chat & video. We cover everything from authentication and DB schema to matching logic, realtime chat, and one-to-one video calls — a complete, intermediate → advanced project.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Next.js (App Router)** – Server & client components for fast SSR/SSG
 * **Supabase** – Postgres database, auth, RLS, storage & realtime
@@ -17,7 +17,7 @@ In this in-depth tutorial you'll build a production-ready **FullStack Dating Web
 
 ---
 
-## ⚡️ Features
+## Features
 
 *  **Auth** — Secure sign-up, sign-in, and session handling
 *  **Postgres Schema** — Profiles, matches, messages, calls (RLS-ready)
@@ -56,8 +56,6 @@ npm run dev
 <img width="1811" height="924" alt="Screenshot 2025-08-14 at 7 20 03 PM" src="https://github.com/user-attachments/assets/490ec5c9-7553-4d89-ab39-9b6a892d77de" />
 
 ---
-
-## ☁️ Deployment
 
 ### Deploy on Vercel
 
